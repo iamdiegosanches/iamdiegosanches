@@ -6,6 +6,13 @@
   <img align="center" height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdiegosanches&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
+  
+<div id="badges" align="center" width="42%">
+  <a href="https://www.linkedin.com/in/iamdiegosanches/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+  
 <!--
 ![iamdiegosanches's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdiegosanches&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdiegosanches&theme=dracula)](https://github.com/iamdiegosanches)

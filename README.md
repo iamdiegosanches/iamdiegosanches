@@ -2,12 +2,12 @@
 
 <div>
   <a href = "https://github.com/iamdiegosanches">
-  <img align="center" height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=iamdiegosanches&show_icons=true&theme=dracula&include_all_comits=true&conut_private=true"/>
-  <img align="center" height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdiegosanches&layout=compact&langs_count=6&theme=dracula"/>
+  <!--<img align="center" height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=iamdiegosanches&show_icons=true&theme=dracula&include_all_comits=true&conut_private=true"/>-->
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdiegosanches&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
-  
-<div id="badges" align="center" width="42%">
+<br>
+<div id="badges"  width="42%">
   <a href="https://www.linkedin.com/in/iamdiegosanches/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

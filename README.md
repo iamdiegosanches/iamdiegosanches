@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<div>
+<!--<div>
   <a href = "https://github.com/iamdiegosanches">
-  <!--<img align="center" height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=iamdiegosanches&show_icons=true&theme=dracula&include_all_comits=true&conut_private=true"/>-->
+  <!--<img align="center" height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=iamdiegosanches&show_icons=true&theme=dracula&include_all_comits=true&conut_private=true"/>
    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdiegosanches&layout=compact&langs_count=6&theme=dracula"/>
 </div>
-
+-->
 
 <br>
 <div id="badges"  width="42%">

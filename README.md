@@ -1,34 +1,21 @@
 ### Hi there 👋
 
-<!--<div>
-  <a href = "https://github.com/iamdiegosanches">
-  <!--<img align="center" height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=iamdiegosanches&show_icons=true&theme=dracula&include_all_comits=true&conut_private=true"/>
-   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamdiegosanches&layout=compact&langs_count=6&theme=dracula"/>
+<div align="center">  
+  <a href="https://iamdiegosanches.github.io/" target="_blank" >https://iamdiegosanches.github.io/</a>
+
 </div>
--->
+<br/>
+<div align="center">
+  <a href="https://iamdiegosanches.github.io/" target="_blank">
+    <img src="https://24.media.tumblr.com/3cda39ce1bcfadd36e6a15cd91c0140e/tumblr_n3zk0j8N6r1s199fdo1_400.gif" alt="Enter The Wired" width="40%" style="border: 2px solid #00ff41; border-radius: 6px; box-shadow: 0 0 10px #00ff41;" />
+  </a>
+  <br>
+</div>
 
 <br>
-<div id="badges"  width="42%">
+
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/iamdiegosanches/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-  
-<!--
-![iamdiegosanches's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamdiegosanches&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamdiegosanches&theme=dracula)](https://github.com/iamdiegosanches)
-
-
-**iamdiegosanches/iamdiegosanches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
